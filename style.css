@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100;200;300;400;500;600;700;800;900&family=Lato:wght@900&family=Space+Mono&display=swap');
+:root{
+	--menu-hover:#FE8F01;
+	--color-general:#e0e0e0;
+	--color-titulos:#282d33;
+	--color-iconos: #e0e0e0;
+	--color-checks:#53c3c9;
+}
+body{
+	font-size: 14px;
+}
+header{
+	background-color: #FFF;
+	padding: 5px 0;
+}
+#hero{
+	background-image:url("../img/bg-services-title.jpg");
+	background-size: cover;
+	background-position:center;
+	text-align: center;
+	color:#FFFFFF;
+	padding: 100px;
+	font-family: 'Catamaran', sans-serif;
+	font-weight:bold;
+}
+#services{
+	font-family: 'Catamaran', sans-serif;
+	margin-bottom:  70px;
+	text-align: center;
+	margin-top: 70px;
+}
+.envelope{
+	font-size:100px;
+	color:#e0e0e0;
+}
+.phone{
+	font-size:100px;
+	color:#e0e0e0;
+}
+.upload{
+	font-size:100px;
+	color:#e0e0e0;
+}
+h5{
+	color:#282d33;
+ font-family: 'Catamaran', sans-serif;
+	font-weight: bold;
+}
+p{
+	color:#282d33;
+	font-family: 'Catamaran', sans-serif;
+ text-align: center;
+	
+}
+.check{
+	font-size:40px;
+	color:#53c3c9;
+	font-weight: bold;
+}
+#pages {
+	text-align: center;
+	font-family: 'Catamaran', sans-serif;
+	padding:70px;
+	background-color:#f7f7f7;
+	background-size: cover;
+}
+#pages h2{
+	font-family: 'Catamaran', sans-serif;
+	font-weight:bold;
+	color:#282d33;
+}
+#pages img{
+margin-top:20px;
+margin-bottom: 20px;
+	padding: 10px;
+}
+footer{
+	background-color: #333333;
+	color: #bababa;
+	padding: 15px 0;
+	text-align: center;
+}
+
